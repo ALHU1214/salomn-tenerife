@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alhu1214.github.io/salom-tenerife/sitemap.xml
+Sitemap: https://salomtenerife.com/sitemap.xml
