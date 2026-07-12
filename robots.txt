@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://salomtenerife.com/sitemap.xml
